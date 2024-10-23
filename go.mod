@@ -21,7 +21,7 @@ require (
 	github.com/containernetworking/plugins v1.1.1
 	github.com/coreos/go-iptables v0.8.0
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gammazero/deque v0.1.2
 	github.com/go-logr/logr v1.4.2
@@ -53,7 +53,7 @@ require (
 	github.com/ti-mo/conntrack v0.5.1
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vmware/go-ipfix v0.11.0
-	go.uber.org/mock v0.4.0
+	go.uber.org/mock v0.5.0
 	golang.org/x/crypto v0.28.0
 	golang.org/x/mod v0.21.0
 	golang.org/x/net v0.30.0
